@@ -1,8 +1,9 @@
 ## 关于空间中一个点电荷到带电球或圆环库仑力是否一致的验证实验
 ---
 ### 1.问题描述
-设空间中有一点电荷，其带电量为q=5C
-<div>
-<img src="https://ws1.sinaimg.cn/large/005uxhkhgy1g26pywtbjqj315k0saajn.jpg" width = "45%" height = "45%" div align=left />
-<img src="https://ws1.sinaimg.cn/large/005uxhkhgy1g26pycz27tj312i0rc12w.jpg" width = "45%" height = "45%" div align=right />
-</div>
+设空间中有一点电荷，其带电量为q=5C，距该点电荷20m处有一个带电量为Q=10C的圆环（不包括圆盘中间）或球壳，它们的半径都是10m，如图所示，验证圆环和球壳对该点电荷的库伦力是否相等。
+![](https://ws1.sinaimg.cn/large/005uxhkhgy1g290481lejj313q0djq85.jpg)
+### 2.理论推导
+#### 1.球壳
+对于球壳到点电荷的库仑力计算问题，由于球体的对称性，我们可以只用计算球体的四分之一到点电荷的库伦力，所得结果乘以四倍即得最终结果，我们将球壳按
+#### 2.圆环
